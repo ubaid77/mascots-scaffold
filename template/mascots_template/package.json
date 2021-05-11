@@ -1,0 +1,19 @@
+{
+  "name": "mascots_template",
+  "version": "1.0.0",
+  "description": "template generated from mascots-generate-template",
+  "main": "index.jsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.jsx",
+    "start:dev": "nodemon index.jsx"
+  },
+  "author": "mascots",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^2.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  }
+}
